@@ -1,2 +1,2 @@
 # Pneumonia-detection
-Pneumonia detection for a college project
+pneumonia detection using Python tensorflow using a data set from kaggle and a pre trained model Called VGG16
